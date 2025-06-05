@@ -1,4 +1,4 @@
-import user from "../../public/user.jpeg"
+import user from "../../public/myimg.jfif"
 const About = () => {
     return (
         <section id="about" className="py-20 bg-white">
@@ -7,7 +7,7 @@ const About = () => {
                     <div>
                         <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl mb-6">About Me</h2>
                         <p className="text-lg text-gray-600 mb-6 text-justify">
-                            I am Mansi Joshi, a passionate and skilled graphics designer with over five years of expertise in CorelDRAW and a year of specialized experience in UI/UX design using Figma. My creative journey is fueled by a deep understanding of visual storytelling and user-centered design principles, enabling me to craft stunning and intuitive designs that truly resonate. Proficient in industry-leading tools like Blender, Photoshop, and more, I bring versatility and innovation to every project.
+                            I am Mansi Joshi, a passionate and skilled graphics designer with over Two years of expertise in CorelDRAW and a year of specialized experience in UI/UX design using Figma. My creative journey is fueled by a deep understanding of visual storytelling and user-centered design principles, enabling me to craft stunning and intuitive designs that truly resonate. Proficient in industry-leading tools like Blender, Photoshop, and more, I bring versatility and innovation to every project.
                         </p>
                         <p className="text-lg text-gray-600 mb-8 text-justify">
                             Whether you need captivating branding, seamless user interfaces, or striking digital artwork, I am dedicated to transforming your ideas into impactful visual experiences that elevate your brand and engage your audience. Let’s collaborate to make your vision come alive with creativity and precision!
@@ -36,7 +36,7 @@ const About = () => {
                             />
                         </div>
                         <div className="absolute -bottom-6 -left-6 bg-purple-600 text-white p-4 rounded-lg shadow-lg">
-                            <p className="text-2xl font-bold">5+</p>
+                            <p className="text-2xl font-bold">2+</p>
                             <p className="text-sm">Years Experience</p>
                         </div>
                     </div>
